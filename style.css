@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img1 img{
+    width: 80px;
+    margin-left: 620px;
+}
+
+header{
+    background-color: rgb(255, 238, 0);
+}
+
+.img1{
+   width: 100%;
+}
+
+.img2{
+   width: 100%;
+   margin-top: -195px;
+}
+
+.img3{
+   width: 100%;
+   margin-top: -195px;
+}
+
+.img4{
+  width: 100%;
+  margin-top: -195px;
+}
+
+.img5{
+    width: 100%;
+    margin-top: -195px;
+}
+
+.img6{
+    width: 100%;
+    margin-top: -195px;
+}
+
+.img7{
+    width: 100%;
+    margin-top: -195px;
+}
+
+.img8{
+    width: 100%;
+    margin-top: -194px;
+}
+
+.img9{
+    width: 100%;
+}
+
+.img10{
+    width: 100%;
+    margin-top: -195px;
+    background-size: cover;
+}
+
+.text1{ 
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text2{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text3{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text4{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text5{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text6{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text7{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text8{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 20px;
+}
+
+.text9{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -170px;
+    margin-bottom: 220px;
+}
+
+.text10{
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-top: -130px;
+}
+
+
+.bta1{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    margin-top: -50px;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta2{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    margin-top: -50px;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta3{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    margin-top: -50px;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta4{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    margin-top: -50px;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+}
+
+.bta5{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    margin-top: -50px;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta6{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta7{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta8{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta9{
+    width: 60px;
+    background-color: green;
+    color: white;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    margin-top: 20px;
+}
+
+.bta10{
+    width: 80px;
+    background-color: green;
+    color: white;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    border: 2px solid transparent;
+}
+
+
+
+.h1{
+    margin-bottom: 55px;
+}
+
+
+.h2{
+    margin-bottom: 55px;
+}
+
+.h3{
+    margin-bottom: 55px;
+}
+
+.h4{
+    margin-bottom: 55px;
+}
+
+.h5{
+    margin-bottom: 55px;
+}
+
+.h6{
+    margin-bottom: 55px;
+}
+
+.h7{
+    margin-bottom: 55px;
+}
+
+.h8{
+    margin-bottom: 55px;
+}
+
+.h9{
+    margin-bottom: 55px;
+}
+
+.h10{
+    margin-bottom: 70px;
+}
+
+.bta10:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    transition: 0.5s;
+}
+
+.bta9:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    transition: 0.5s;
+}
+
+.bta8:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 4, 255);
+    transition: 0.5s;
+}
+
+.bta7:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    transition: 0.5s;
+}
+
+.bta6:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(208, 211, 34);
+    transition: 0.5s;
+}
+
+.bta5:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 60, 0);
+    transition: 0.5s;
+}
+
+.bta4:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(252, 4, 4);
+transition: 0.5s;
+}
+
+.bta3:hover{
+    color: white;
+    background-color: black;
+    transition: 0.5s;
+}
+
+.bta2:hover{
+    color: white;
+    background-color: rgb(255, 0, 0);
+    transition: 0.5s;
+}
+
+.bta1:hover{
+    color: white;
+    background-color: rgb(238, 255, 0);
+    transition: 0.5s;
+}
+
+.h9{
+    margin-bottom: 10px;
+}
+
+.h10{
+    margin-bottom: 10px;
+}
+.h8{
+    margin-bottom: 10px;
+}
